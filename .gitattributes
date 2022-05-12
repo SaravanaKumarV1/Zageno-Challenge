@@ -1,0 +1,5 @@
+*.properties filter=git-crypt diff=git-crypt
+*.java filter=git-crypt diff=git-crypt
+*.class filter=git-crypt diff=git-crypt
+*.feature filter=git-crypt diff=git-crypt
+*.xml filter=git-crypt diff=git-crypt
